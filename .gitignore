@@ -16,3 +16,6 @@ node_modules/
 
 # Secrets. Never commit these.
 .env
+
+# Local review scratch files
+work/
